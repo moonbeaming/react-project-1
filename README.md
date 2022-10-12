@@ -1,3 +1,8 @@
+# NOTE
+
+**This repository is under construction.**
+
+
 # React Navigation Version 6 Mix
 
 This project is part of a tutorial series on React Navigation v6 on my [YouTube Channel](https://www.youtube.com/channel/UC43N9Z8Fm0gg1Lgpw0eS9rg).
